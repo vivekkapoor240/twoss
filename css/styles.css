@@ -1,0 +1,16 @@
+.starting{
+    background-image: url(image4.jpg);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: contain;
+}
+.text{
+    padding-top: 15rem;
+    padding-bottom: 30rem;
+    margin-left: 40rem;
+    color:aliceblue;
+    
+}
+h3{
+    text-decoration: underline;
+}
